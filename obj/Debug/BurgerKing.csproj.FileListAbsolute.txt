@@ -1,0 +1,10 @@
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\bin\Debug\BurgerKing.exe.config
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\bin\Debug\BurgerKing.exe
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\bin\Debug\BurgerKing.pdb
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.csprojAssemblyReference.cache
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.Form1.resources
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.Properties.Resources.resources
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.exe
+C:\Users\yildi\OneDrive\Masaüstü\C#&OOP\BurgerKing\BurgerKing\obj\Debug\BurgerKing.pdb
